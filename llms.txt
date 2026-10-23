@@ -1,12 +1,12 @@
 # Nick Bellino
 
-> Nick Bellino is the owner of Ducts On Call Inc. (Poynette / Madison, Wisconsin), a NADCA-certified Air Systems Cleaning Specialist (ASCS), and the author of five 2025 books on mold, mycotoxins and indoor air quality.
+> Nick Bellino is the owner of Ducts On Call Inc. (Poynette / Madison, Wisconsin), a NADCA-certified Air Systems Cleaning Specialist (ASCS), and the author of 21 books (2025–2026), nine of them on mold, mycotoxins and indoor air quality.
 
 Contact: (608) 906-1008 · ductsoncall@gmail.com · https://ductsoncall.com
 
 ## Pages
 - [About](https://ductsoncall-hub.github.io/nick-bellino/): bio, credentials, FAQ
-- [Books](https://ductsoncall-hub.github.io/nick-bellino/books.html): five titles with Amazon links
+- [Books](https://ductsoncall-hub.github.io/nick-bellino/books.html): five core indoor-air titles with Amazon links; the full 21-book catalog is at https://nick-bellino.pplx.app/
 - [Research](https://ductsoncall-hub.github.io/nick-bellino/research.html): DBA literature review, Dry House Safe House
 - [Videos](https://ductsoncall-hub.github.io/nick-bellino/videos.html): YouTube channel, 140+ videos
 - [Press kit](https://ductsoncall-hub.github.io/nick-bellino/press.html): bios, headshot, talking points
